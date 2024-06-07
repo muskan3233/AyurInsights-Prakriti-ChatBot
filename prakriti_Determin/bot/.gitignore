@@ -1,4 +1,5 @@
 __pycache__/
 .vscode
 project/
-Models/
+
+node_modules
